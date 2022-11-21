@@ -33,10 +33,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Rails] <a name="about-project"></a>
+# 📖 Hello Rails <a name="about-project"></a>
 ![ruby-gif](https://media3.giphy.com/media/ies0Iqu9Yc5UqpOk6A/200w.webp?cid=ecf05e47qpkxy4vypertfnqt5qfehg9xqkbs5mb9yh4iluze&rid=200w.webp&ct=g)
 
-**[Hello Rails]** is an exercise that displays 'Hello World!' to the page by using Rails to make sure everything is set up correctly.
+**Hello Rails** is an exercise that displays 'Hello World!' to the page by using Rails to make sure everything is set up correctly.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -100,7 +100,7 @@ In order to run this project you need:
 Install this project with:
 
 ```sh
-  budle install
+  bundle install
 ```
 
 ### Usage
